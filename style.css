@@ -1,0 +1,19 @@
+/*
+Endless Runner Game
+-------------------
+License : Apache 2.0 License
+Author  : Md Mahbubur Rahman
+URL     : https://m-a-h-b-u-b.github.io
+GitHub  : https://github.com/m-a-h-b-u-b/endless-runner-game 
+*/
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #74ebd5, #ACB6E5);
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: linear-gradient(to top, #a0e9fd, #ffffff);
+}

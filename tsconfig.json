@@ -1,0 +1,18 @@
+/*
+Endless Runner Game
+-------------------
+License : Apache 2.0 License
+Author  : Md Mahbubur Rahman
+URL     : https://m-a-h-b-u-b.github.io
+GitHub  : https://github.com/m-a-h-b-u-b/endless-runner-game 
+*/
+
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ES6",
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true
+  }
+}
