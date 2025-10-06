@@ -82,6 +82,15 @@ This project helps beginners:
 
 This project is licensed under the **Apache 2.0 License**.
 
+---
+
+## 👨‍💻 Author
+
+**Md Mahbubur Rahman**  
+🌐 [Website](https://m-a-h-b-u-b.github.io)  
+💻 [GitHub](https://github.com/m-a-h-b-u-b)  
+📧 Reach out for collaboration or contributions!
+
 ## Repository
 
 [https://github.com/m-a-h-b-u-b/endless-runner-game](https://github.com/m-a-h-b-u-b/endless-runner-game)
